@@ -1,5 +1,5 @@
-# hitmewithyourbestprompt
-Create prompts for Large Language Models
+# Hit Me With Your Best Prompt
+Create prompts for Large Language Models, specifically chatGPT, with this simple tool.
 
 ## Usage
 
