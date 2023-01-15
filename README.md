@@ -10,3 +10,7 @@ python3 promptme.py
 ```
 
 This will prompt you for the elements of a prompt, and then generate a prompt for you.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detailsff
