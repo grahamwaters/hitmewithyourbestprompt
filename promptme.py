@@ -9,7 +9,7 @@ def make_a_prompt():
     """
 
     input_mode = (
-        False  # set to true to use the input mode, false to use the example mode
+        True  # set to False to exit the input mode, True to not use the example mode
     )
 
     print("Welcome to the prompt generator!")
